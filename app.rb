@@ -3,7 +3,7 @@ AVERAGE_HEIGHT_IN_INCHES = 67
 
 # Your Code Here!
 
-            name = "Jack Ma"
+name = "Jack Ma"
              age = "20"
    favorite_food = "sea urchin ceviche"
 height_in_inches = "69"
