@@ -7,7 +7,7 @@ name = "Jack Ma"
 age = "20"
 favorite_food = "sea urchin ceviche"
 height_in_inches = "69"
-height_message = height_in_inches ? "You 
+height_message = height_in_inches ? "You are taller than average." : "You 
 
 ## Do not modify below this line!
 
