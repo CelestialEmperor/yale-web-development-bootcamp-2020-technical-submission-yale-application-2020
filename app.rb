@@ -8,7 +8,7 @@ age = "20"
 favorite_food = "Sea Urchin Ceviche"
 height_in_inches = 69
 
-taller_than_average = height_in_inches > 67
+taller_than_average = height_in_inches > AVERAGE_HEIGHT_IN_INCHES
 
 height_message = taller_than_average ? "You are taller than average." : "You are not taller than average."
 
